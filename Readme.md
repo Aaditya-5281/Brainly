@@ -1,6 +1,6 @@
-# 🧠 Second Brain – Your Digital Knowledge Hub
+# 🧠 Brainly – Your Digital Knowledge Hub
 
-Second Brain is your personal knowledge management system designed to store, organize, and access your thoughts, ideas, and learning materials. With sleek, intuitive UI components and powerful search and organization features, Second Brain is the ultimate digital brain for managing your thoughts.
+Brainly is your personal knowledge management system designed to store, organize, and access your thoughts, ideas, and learning materials. With sleek, intuitive UI components and powerful search and organization features,  Brainly is the ultimate digital brain for managing your thoughts.
 
 ## 🔍 Features
 
@@ -26,7 +26,7 @@ Second Brain is your personal knowledge management system designed to store, org
 
 ## 🖼️ UI Components & Functionality
 
-The **UI** of Second Brain is built with flexibility in mind, allowing users to interact with content in different ways. The sidebar and dynamic card components allow users to filter and display specific content based on the selected category. Here's a breakdown of the key components:
+The **UI** of  Brainly is built with flexibility in mind, allowing users to interact with content in different ways. The sidebar and dynamic card components allow users to filter and display specific content based on the selected category. Here's a breakdown of the key components:
 
 ### 🃏 **Card Components**
 - **Card Design:** Each note or content item is displayed in a card format for a neat, visual representation. Cards can include:
